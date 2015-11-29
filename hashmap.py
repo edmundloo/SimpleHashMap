@@ -144,4 +144,4 @@ if __name__ == '__main__':
                 print("Bad command.")
             command = input('Command:').split()
 
-    print("Goodbye!")
+    print("Ending program! Goodbye!")
